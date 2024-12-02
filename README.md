@@ -1,1 +1,1 @@
-<img src="apk-QuickEdit-(1).png">
+<img src="QuickEdit-(1).png">
